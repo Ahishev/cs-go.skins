@@ -49,5 +49,23 @@ footer {
 }
 
 footer p {
-    <Img src="https://o.remove.bg/downloads/52dd2a8e-d4aa-49fb-bfbc-52dcea3d976f/kisspng-telegram-portable-network-graphics-computer-icons-contact-global-trading-sk-inc-a-state-of-art-mul-5b69f49368a0b9.1633536015336705474286-removebg-preview.png" width="20" height="20"</> <a href="https://t.me/agishev_vlados" style="color:black;text-align:center" style="color:red">Telegram</a>
+    background-color: white;
+    color: black;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 5px;
+    border: 1px solid white;
+    border-radius: 10px;
+    margin: 10px;
 }
+footer a {
+    color: black;
+    background-color: white;
+    font-size: 20px;
+    text-decoration: none;
+    border: 1px solid white;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 10px;
+}
+
