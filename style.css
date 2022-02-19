@@ -51,5 +51,10 @@ footer {
 footer p {
     background-color: white;
     color: black;
+    font-size: 20px;
+    text-decoration: none;
     padding: 5px;
+    border: 1px solid white;
+    border-radius: 10px;
+    margin: 10px;
 }
