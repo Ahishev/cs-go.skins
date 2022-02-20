@@ -1,5 +1,6 @@
 header {
     background-color:#8fddf2;
+    height: 300px;
    
 }
 
@@ -16,7 +17,7 @@ header a {
 
 header img {
     width: 200px;
-    height: 120px;
+    height: 200px;
 }
 
 h1 {
